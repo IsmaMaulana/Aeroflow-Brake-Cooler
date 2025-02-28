@@ -56,7 +56,7 @@ The Aeroflow Brake Cooler is a lightweight, high-efficiency cooling system desig
 <img src="https://i.imgur.com/gRKx9Ky.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 3D Models <br/>
-<img src="https://i.imgur.com/1cVCPzE.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1fOwqh6.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 
 <!--
  ```diff
